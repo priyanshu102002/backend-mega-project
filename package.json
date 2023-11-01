@@ -1,0 +1,11 @@
+{
+  "name": "mega-backend-project",
+  "version": "1.0.0",
+  "description": "It is the mega project of backend where I have written the code to production level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanshu kumar",
+  "license": "ISC"
+}
